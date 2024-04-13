@@ -1,0 +1,45 @@
+.test .container {
+  margin: 0 891.5px 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'InaiMathi', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 30px;
+  letter-spacing: -0.9px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.test .screen-shot-20240412-at-3041 {
+  background: url('../assets/images/screenShot20240412At3041.png') 50% / cover no-repeat;
+  margin-bottom: 10px;
+  width: 1067px;
+  height: 598px;
+}
+.test .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'InaiMathi', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 30px;
+  letter-spacing: -0.9px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.test .frame-1 {
+  background: #FF0000;
+  margin-right: 827px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 0.5px 13px 0;
+  width: 240px;
+  box-sizing: border-box;
+}
+.test {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 125px 0;
+  width: 2765px;
+  box-sizing: border-box;
+}
